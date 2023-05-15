@@ -1,0 +1,57 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    display:flex;
+    color: beige;
+    justify-content: center;
+    font-family:'Courier New', Courier, monospace
+    
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    position: relative; bottom: 1%;
+    padding-bottom: 2%;
+    font-family:'Courier New', Courier, monospace
+    
+    
+}
+
+h3{
+    color: beige;
+    text-align: center;
+    position: relative; bottom: 20%;
+    padding-bottom: 1%;
+    font-family:'Courier New', Courier, monospace
+}
+
+.links{
+    align-items: center;
+    text-align: center;
+}
+
+article{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+
+.contact{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
